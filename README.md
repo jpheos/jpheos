@@ -16,7 +16,3 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" style="height:40px" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" style="height:40px" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="height:40px" />&nbsp;
-
----
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jpheos&theme=prussian&hide_border=true&card_width=1000)
